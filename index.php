@@ -82,8 +82,8 @@
         <header>
             <div class="container">
                 <div class="intro-text">
-                    <div class="intro-lead-in">Golden State Warriors (2015-2016)</div>
-                    <div class="intro-lead-in" style='color:white'>Greatest NBA Season Record of All Time: 73-9</div>
+                    <div class="intro-lead-in">Golden State Warriors (2015-2016 Season)</div>
+                    <div class="intro-lead-in" style='color:white'>Holder of Best NBA Record of All Time: 73-9</div>
 
                 </div>
             </div>
@@ -92,7 +92,7 @@
 
         <!-- Portfolio Grid Section -->
         <section id="players" class="bg-light-gray">
-            <div class="container">
+            <div class="container" style="margin:auto">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Players</h2>
@@ -473,7 +473,7 @@
         <!-- Main Content -->
         <section id="recent">
 
-            <div class="container">
+            <div class="container" style="margin: auto">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Recent Games</h2>
@@ -526,7 +526,7 @@
                 <h2 class="section-heading">Directions</h2>
             </div>
             <div class="center-block">
-                <iframe style="border:8px solid #111111" width="50%" height="550"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
+                <iframe style="border:8px solid #111111" width="60%" height="550" margin:auto  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
             </div>
         </section>
 
