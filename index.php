@@ -92,7 +92,7 @@
 
         <!-- Portfolio Grid Section -->
         <section id="players" class="bg-light-gray">
-            <div class="container" style="text-align:"center" padding-left:"50px"">
+            <div class="container" style="text-align:"left">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Players</h2>
@@ -106,7 +106,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/barbosa.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/barbosa.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Leandro Barbosa #19</h4>
@@ -120,7 +120,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/barnes.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/barnes.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Harrison Barnes #40</h4>
@@ -134,7 +134,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/bogut.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/bogut.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Andrew Bogut #12</h4>
@@ -148,7 +148,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/clark.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/clark.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Ian Clark #21</h4>
@@ -162,7 +162,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/curry.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/curry.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Stephen Curry #30</h4>
@@ -176,7 +176,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/ezeli.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/ezeli.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Festus Ezeli #31</h4>
@@ -190,7 +190,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/green.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/green.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Draymond Green #23</h4>
@@ -204,7 +204,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/iguodala.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/iguodala.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Andrew Iguodala #9</h4>
@@ -218,7 +218,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/livingston.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/livingston.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Shaun Livingston #34</h4>
@@ -232,7 +232,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/looney.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/looney.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Kevon Looney #36</h4>
@@ -246,7 +246,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/mcadoo.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/mcadoo.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>James Michael McAdoo #20</h4>
@@ -260,7 +260,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/rush.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/rush.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Brandon Rush #4</h4>
@@ -274,7 +274,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/speights.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/speights.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Marreese Speights #5</h4>
@@ -288,7 +288,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/thompson2.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/thompson2.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Jason Thompson #1</h4>
@@ -302,7 +302,7 @@
                                     <i class="fa fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/thompson.png" class="img-responsive" alt="">
+                            <img src="img/portfolio/thompson.png" class="img-responsive" style:"margin:auto">
                         </a>
                         <div class="portfolio-caption">
                             <h4>Klay Thompson #11</h4>
@@ -525,8 +525,8 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Directions</h2>
             </div>
-            <div class="center-block" style="text-align:"center" margin:"0px auto"">
-                <iframe style="border:8px solid #111111" width="60%" height="550" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
+            <div class="center-block" style="text-align:"center"">
+                <iframe style="border:8px solid #111111" width="65%" height="550" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
             </div>
         </section>
 
