@@ -92,7 +92,7 @@
 
         <!-- Portfolio Grid Section -->
         <section id="players" class="bg-light-gray">
-            <div class="container" style="align:center">
+            <div class="container" style="text-align:"center" padding-left:"50px"">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Players</h2>
@@ -473,7 +473,7 @@
         <!-- Main Content -->
         <section id="recent">
 
-            <div class="container" style="align:center">
+            <div class="container" style="margin: 0 auto" text-align:"center">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Recent Games</h2>
@@ -484,7 +484,7 @@
                         <p class="strong">
                             Warriors defeat Phoenix Suns 128-103
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" margin:"auto" align:"center" src="https://www.youtube.com/embed/qGkx5Mb5oXk" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/qGkx5Mb5oXk" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">December 16, 2015</p>
                     </div>
                     <hr>
@@ -525,8 +525,8 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Directions</h2>
             </div>
-            <div class="center-block">
-                <iframe style="border:8px solid #111111" width="60%" height="550" align="center"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
+            <div class="center-block" style="text-align:"center" margin:"0px auto"">
+                <iframe style="border:8px solid #111111" width="60%" height="550" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
             </div>
         </section>
 
