@@ -631,7 +631,7 @@
                         </ul>
                     </div>
                     <div class="col-md-4">
-
+                        <span style="float:right">Rights reserved</span>
                     </div>
                 </div>
             </div>
