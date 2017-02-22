@@ -82,8 +82,8 @@
         <header>
             <div class="container">
                 <div class="intro-text">
-                    <div class="intro-lead-in">Golden State Warriors(2015-2016)</div>
-                    <div class="intro-lead-in" style='color:white'>Greatest NBA Season Record: 73-9</div>
+                    <div class="intro-lead-in">Golden State Warriors (2015-2016)</div>
+                    <div class="intro-lead-in" style='color:white'>Greatest NBA Season Record of All Time: 73-9</div>
 
                 </div>
             </div>
@@ -397,7 +397,7 @@
                                     </div>
                                     <div class="timeline-body">
                                         <p class="muted-text"> In the offseason, Baron Davis opted to return to his home town and sign with the Los Angeles Clippers. With the 14th pick of the 2008 NBA draft, the Warriors selected and signed Anthony Randolph out of LSU. To compensate for the loss of Davis, the Warriors signed free agents Corey Maggette and Ronny Turiaf and re-signed Ellis and Andris Biedriņš to long-term contracts. 
-                                            During the 2009 off-season, Warrior ownership declined to renew the contract of general manager Mullin. Larry Riley, Nelson's longtime assistant coach,[14] was promoted in his place and drafted Stephen Curry as an outstanding 7th lottery pick, but dubiously traded Jamal Crawford to the Atlanta Hawks for Acie Law and Speedy Claxton. The Warriors failed to make the playoffs after a 36-win season in 2010–11, and coach Smart was dismissed on April 27 due to the change in ownership. 17-year NBA veteran and former ABC and ESPN commentator Mark Jackson replaced him as head coach on June 6.[21] On December 19, they traded Amundson to the Indiana Pacers for small forward Brandon Rush.</p>
+                                            During the 2009 off-season, Warrior ownership declined to renew the contract of general manager Mullin. Larry Riley, Nelson's longtime assistant coach, was promoted in his place and drafted Stephen Curry as an outstanding 7th lottery pick, but dubiously traded Jamal Crawford to the Atlanta Hawks for Acie Law and Speedy Claxton. The Warriors failed to make the playoffs after a 36-win season in 2010–11, and coach Smart was dismissed on April 27 due to the change in ownership. 17-year NBA veteran and former ABC and ESPN commentator Mark Jackson replaced him as head coach on June 6. On December 19, they traded Amundson to the Indiana Pacers for small forward Brandon Rush.</p>
 
                                     </div>
                                 </div>
@@ -526,7 +526,7 @@
                 <h2 class="section-heading">Directions</h2>
             </div>
             <div class="center-block">
-                <iframe style="border:8px solid #111111" width="50" height="550"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
+                <iframe style="border:8px solid #111111" width="50%" height="550"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
             </div>
         </section>
 
