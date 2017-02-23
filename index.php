@@ -476,7 +476,7 @@
             <div class="container" style="display:block; text-align:center">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading">2015-2017 NBA Finals</h2>
+                        <h2 class="section-heading">2015-2016 NBA Finals</h2>
                     </div>
                 </div>
                 <div>
@@ -512,7 +512,6 @@
                         <p class="post-meta">June 10, 2016</p>
                     </div>
                     <hr>
-                    <hr>
                     <div class="post-preview">
                         <p class="post">
                             Golden State Warriors defeat Cleveland Cavaliers 120-90 
@@ -521,7 +520,6 @@
                         <p class="post-meta">June 8, 2016</p>
                     </div>
                     <hr>
-                    <hr>
                     <div class="post-preview">
                         <p class="post">
                             Golden State Warriors defeat Cleveland Cavaliers 110-77
@@ -529,7 +527,6 @@
                         <iframe style="border:8px solid #111111" width="600" height="315" src="ttps://www.youtube.com/embed/6gx5-hyMUt4?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 5, 2016</p>
                     </div>
-                    <hr>
                     <hr>
                     <div class="post-preview">
                         <p class="post">
