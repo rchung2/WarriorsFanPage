@@ -92,7 +92,7 @@
 
         <!-- Portfolio Grid Section -->
         <section id="players" class="bg-light-gray">
-            <div class="container" style="text-align:"left">
+            <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Players</h2>
@@ -109,8 +109,8 @@
                             <img src="img/portfolio/barbosa.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Leandro Barbosa #19</h4>
-                            <p class="text-muted">Guard</p>
+                            <h4 style="text-align:center">Leandro Barbosa #19</h4>
+                            <p class="text-muted" style="text-align:center">Guard</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -123,8 +123,8 @@
                             <img src="img/portfolio/barnes.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Harrison Barnes #40</h4>
-                            <p class="text-muted">Forward</p>
+                            <h4 style="text-align:center">Harrison Barnes #40</h4>
+                            <p class="text-muted" style="text-align:center">Forward</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -137,8 +137,8 @@
                             <img src="img/portfolio/bogut.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Andrew Bogut #12</h4>
-                            <p class="text-muted">Center</p>
+                            <h4 style="text-align:center">Andrew Bogut #12</h4>
+                            <p class="text-muted" style="text-align:center">Center</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -151,8 +151,8 @@
                             <img src="img/portfolio/clark.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Ian Clark #21</h4>
-                            <p class="text-muted">Guard</p>
+                            <h4 style="text-align:center">Ian Clark #21</h4>
+                            <p class="text-muted" style="text-align:center">Guard</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -165,8 +165,8 @@
                             <img src="img/portfolio/curry.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Stephen Curry #30</h4>
-                            <p class="text-muted">Guard</p>
+                            <h4 style="text-align:center">Stephen Curry #30</h4>
+                            <p class="text-muted" style="text-align:center">Guard</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -179,8 +179,8 @@
                             <img src="img/portfolio/ezeli.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Festus Ezeli #31</h4>
-                            <p class="text-muted">Center</p>
+                            <h4 style="text-align:center">Festus Ezeli #31</h4>
+                            <p class="text-muted" style="text-align:center">Center</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -193,8 +193,8 @@
                             <img src="img/portfolio/green.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Draymond Green #23</h4>
-                            <p class="text-muted">Forward</p>
+                            <h4 style="text-align:center">Draymond Green #23</h4>
+                            <p class="text-muted" style="text-align:center">Forward</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -207,8 +207,8 @@
                             <img src="img/portfolio/iguodala.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Andrew Iguodala #9</h4>
-                            <p class="text-muted">Guard-Forward</p>
+                            <h4 style="text-align:center">Andrew Iguodala #9</h4>
+                            <p class="text-muted" style="text-align:center">Guard-Forward</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -221,8 +221,8 @@
                             <img src="img/portfolio/livingston.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Shaun Livingston #34</h4>
-                            <p class="text-muted">Guard</p>
+                            <h4 style="text-align:center">Shaun Livingston #34</h4>
+                            <p class="text-muted" style="text-align:center">Guard</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -235,8 +235,8 @@
                             <img src="img/portfolio/looney.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Kevon Looney #36</h4>
-                            <p class="text-muted">Forward</p>
+                            <h4 style="text-align:center">Kevon Looney #36</h4>
+                            <p class="text-muted" style="text-align:center">Forward</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -249,8 +249,8 @@
                             <img src="img/portfolio/mcadoo.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>James Michael McAdoo #20</h4>
-                            <p class="text-muted">Forward</p>
+                            <h4 style="text-align:center">James Michael McAdoo #20</h4>
+                            <p class="text-muted" style="text-align:center">Forward</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -263,8 +263,8 @@
                             <img src="img/portfolio/rush.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Brandon Rush #4</h4>
-                            <p class="text-muted">Guard-Forward</p>
+                            <h4 style="text-align:center">Brandon Rush #4</h4>
+                            <p class="text-muted" style="text-align:center">Guard-Forward</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -291,8 +291,8 @@
                             <img src="img/portfolio/thompson2.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Jason Thompson #1</h4>
-                            <p class="text-muted">Forward-Center</p>
+                            <h4 style="text-align:center">Jason Thompson #1</h4>
+                            <p class="text-muted" style="text-align:center">Forward-Center</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 portfolio-item">
@@ -305,8 +305,8 @@
                             <img src="img/portfolio/thompson.png" class="img-responsive center-block" style:"margin: 0 auto" alt="">
                         </a>
                         <div class="portfolio-caption">
-                            <h4>Klay Thompson #11</h4>
-                            <p class="text-muted">Guard</p>
+                            <h4 style="text-align:center">Klay Thompson #11</h4>
+                            <p class="text-muted" style="text-align:center">Guard</p>
                         </div>
                     </div>
                 </div>
@@ -484,7 +484,7 @@
                         <p class="strong">
                             Cleveland Cavaliers defeat Golden State Warriors 93-89 
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=Mxv5h-RZWVs" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/Mxv5h-RZWVs?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 19, 2016</p>
                     </div>
                     <hr>
@@ -492,7 +492,7 @@
                         <p class="post">
                             Cleveland Cavaliers defeat Golden State Warriors 115-101 
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=Yy6OD7_Fv0c" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/Yy6OD7_Fv0c?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 16, 2016</p>
                     </div>
                     <hr>
@@ -500,7 +500,7 @@
                         <p class="post">
                             Cleveland Cavaliers defeat Golden State Warriors 112-97 
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=lCE_7j5quOY" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/lCE_7j5quOY?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 13, 2016</p>
                     </div>
                     <hr>
@@ -508,7 +508,7 @@
                         <p class="post">
                             Golden State Warriors defeat Cleveland Cavaliers 108-97 
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=OF2eam-uz4o" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/OF2eam-uz4o?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 10, 2016</p>
                     </div>
                     <hr>
@@ -517,7 +517,7 @@
                         <p class="post">
                             Golden State Warriors defeat Cleveland Cavaliers 120-90 
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=JZ7PdnduFeQ" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/JZ7PdnduFeQ?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 8, 2016</p>
                     </div>
                     <hr>
@@ -526,7 +526,7 @@
                         <p class="post">
                             Golden State Warriors defeat Cleveland Cavaliers 110-77
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=6gx5-hyMUt4" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="ttps://www.youtube.com/embed/6gx5-hyMUt4?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 5, 2016</p>
                     </div>
                     <hr>
@@ -535,7 +535,7 @@
                         <p class="post">
                             Golden State Warriors defeat Cleveland Cavaliers 104-89
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/watch?v=ZeSbW4OPlRg" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/3aiQEbjfv8Y?ecver=1" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">June 2, 2016</p>
                     </div>
                     <hr>
