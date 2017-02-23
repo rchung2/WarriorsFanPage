@@ -492,7 +492,7 @@
                         <p class="post">
                             Warriors lose against Milwaukee Bucks 95-108
                         </p>
-                        <iframe style="border:8px solid #111111" width="600" height="315" src="https://www.youtube.com/embed/BW5h-EnabJo" frameborder="0" allowfullscreen></iframe>
+                        <iframe style="border:8px solid #111111" width="600" height="315" src="http://nba.cdn.turner.com/nba/big/games/bucks/2015/12/12/0021500351-gsw-mil-recap.nba_1280x720.mp4" frameborder="0" allowfullscreen></iframe>
                         <p class="post-meta">December 12, 2015</p>
                     </div>
                     <hr>
