@@ -550,7 +550,7 @@
                 <h2 class="section-heading">Directions</h2>
             </div>
             <div class="container" style="display:block; text-align:center">
-                <iframe style="border:8px solid #111111" width="65%" height="550" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
+                <iframe style="border:8px solid #111111" width="75%" height="550" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.077594094461!2d-122.20388219200301!3d37.75078480634475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f85c378abe8b1%3A0x6497349cedd00de4!2sORACLE+Arena!5e0!3m2!1sen!2sus!4v1450424639126" width="100%" height="550" frameborder="10" style="border:0" allowfullscreen></iframe>
             </div>
         </section>
 
