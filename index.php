@@ -602,7 +602,7 @@
         </section>
 
         <!-- Services Section -->
-        <section id="me" class="bg-light-gray">
+        <section id="me" >
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -641,7 +641,7 @@
 
 
         <footer>
-            <div class="container">
+            <div class="container" class="bg-light-gray">
                 <div class="row">
                     <div class="col-md-4">
                         <span class="copyright">Copyright &copy; Robert Chung 2015</span>
