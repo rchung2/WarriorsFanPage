@@ -544,7 +544,7 @@
             </div>
         </section>
 
-        <section id="directions">
+        <section id="directions" class="bg-light-gray">
 
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Directions</h2>
